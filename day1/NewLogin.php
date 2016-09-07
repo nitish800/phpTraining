@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>My First PHP APP</title>
+<title>Something</title>
 </head>
 <body>
 <form id="form1" method="post" action=""></br>
