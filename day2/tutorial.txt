@@ -6,3 +6,5 @@
 6) While Loop
 7) for loop
 8) Armstrong No.
+9) String operation : strlen(), strrev(), sizeof(), split("where to break",variable)
+10) using date(""), date_default_timezone_set("")
