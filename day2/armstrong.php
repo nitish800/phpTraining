@@ -3,7 +3,7 @@
 <body>
 <h1>Php Example 11</h1>
 
-<b>Armstrong no using For Loop In PHP :</b>
+<div class="pas"><b>Armstrong no using For Loop In PHP :</b></div>
 <br>
 <br>
 <?php
@@ -19,7 +19,7 @@ for($a=100;$a<1000;$a++){
 			}
 	if ($b == $a)
 	{
-		echo "<br><b>Armstrong</b> :".$b;
+		echo "<div class='pa'><br><b>Armstrong :</b>".$b."</div>";
 	}
 	
 	
@@ -28,7 +28,19 @@ for($a=100;$a<1000;$a++){
 }
 
 ?>
-
+<br>
+<marquee><img src="TANK.png" width="400px" height="400px"></marquee>
+<style>
+h1{
+	text-align:center;
+}
+.pas{
+	text-align:center;
+}
+.pa{
+	text-align:center;
+}
+</style>
 </body>
 
 </html>

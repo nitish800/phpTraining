@@ -5,3 +5,4 @@
 5) How to use If Else in php.
 6) While Loop
 7) for loop
+8) Armstrong No.
