@@ -1,0 +1,7 @@
+1) introduction about php (presentation)
+2) How to use "echo" command.
+3) variable in php.
+4) gettype() function in php.
+5) How to use If Else in php.
+6) While Loop
+7) for loop
