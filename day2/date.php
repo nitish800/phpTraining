@@ -8,8 +8,12 @@
 <br>
 <?php
 	
+echo "<br><div class='pa'> Today is"." ".date('l j\<\s\u\p\>S\<\/\s\u\p\> \of F Y');
+if(date('L')==1)
+	echo " And Its a leap Year </div>";
+else
+	echo " And Its not a leap Year</div>";
 
-echo "<br><div class='pa'> Today is"." ".date('l jS \of F Y')."</div>";
 ?>
 <br>
 
