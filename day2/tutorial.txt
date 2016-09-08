@@ -8,3 +8,6 @@
 8) Armstrong No.
 9) String operation : strlen(), strrev(), sizeof(), split("where to break",variable)
 10) using date(""), date_default_timezone_set("")
+11) How to create function in php.
+12) palindrome and factorial program
+13) importing function from another file.
