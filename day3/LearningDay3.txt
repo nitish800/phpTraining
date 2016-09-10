@@ -1,0 +1,11 @@
+1) how to work with postgresql:
+		a) open pgAdmin III
+		b) connect to server;
+		c) create a database;
+		d) create a table by >>create script>> run the command as you want;
+2) Create Table,insert,select,join;
+
+3) Html Form
+4) taking input from html form in php.
+5) insert data into table.
+6) update data in table
