@@ -8,6 +8,7 @@
 <br>
 <div class="pa">
 <?php
+#include('display_html.php');                       //includes the other page in one page.
 //Retriving value from user or form
 // retrive using $_POST[] $_GET[] $_REQUEST[] 
 

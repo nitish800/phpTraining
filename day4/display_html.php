@@ -3,7 +3,7 @@
 <body bgcolor="#e53935">
 <h1>Php Database Example</h1>
 
-<div class="pas"><b>Get User Info Based On Roll No:</b></div>
+<div class="pas"><b>Search User Info Based On Roll No:</b></div>
 <br>
 <br>
 <div class="pa">
@@ -13,7 +13,7 @@
 
 
 <tr bgcolor=#f44336>
-	<th colspan="2">Get User Info</th>
+	<th colspan="2">Search User Info</th>
 	
 </tr>
 <tr>
@@ -21,7 +21,7 @@
 	<td class="row1" ><input type="text" name="roll" class="inp_size" /></td>
 </tr>
 <tr>
-	<td colspan="2" align="center"><input type="Submit" name="Submit" value="UPDATE"/><input type="Reset" value="Reset"/></td>
+	<td colspan="2" align="center"><input type="Submit" name="Submit" value="Search"/><input type="Reset" value="Reset"/></td>
 </tr>
 
 </table>
