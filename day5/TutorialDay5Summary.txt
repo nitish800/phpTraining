@@ -1,3 +1,8 @@
 display a list of product(image); uses html <img> tag
 
-2) Login Page using session_start() and  $_SESSION['foo']=foobar; 
+2) Login Page using session_start() and  $_SESSION['foo']=foobar;
+
+3) adding edit button in day 4 roll search app.[saved in day5/student]
+
+
+ 
